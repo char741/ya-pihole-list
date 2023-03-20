@@ -1,28 +1,48 @@
-# Advertising Lists
+# Advertising List
 https://adaway.org/hosts.txt
+# Advertising List
 https://v.firebog.net/hosts/AdguardDNS.txt
+# Advertising List
 https://v.firebog.net/hosts/Admiral.txt
+# Advertising List
 https://v.firebog.net/hosts/Easylist.txt
-# Suspicious Lists
+# Suspicious List
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# Suspicious List
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+# Suspicious List
 https://v.firebog.net/hosts/static/w3kbl.txt
-# Tracking & Telemetry Lists
+# Tracking & Telemetry List
 https://v.firebog.net/hosts/Easyprivacy.txt
+# Tracking & Telemetry List
 https://v.firebog.net/hosts/Prigent-Ads.txt
+# Tracking & Telemetry List
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+# Tracking & Telemetry List
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-# Malicious Lists
+# Malicious List
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+# Malicious List
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+# Malicious List
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+# Malicious List
 https://v.firebog.net/hosts/Prigent-Crypto.txt
+# Malicious List
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+# Malicious List
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+# Malicious List
 https://phishing.army/download/phishing_army_blocklist_extended.txt
+# Malicious List
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+# Malicious List
 https://v.firebog.net/hosts/RPiList-Malware.txt
+# Malicious List
 https://v.firebog.net/hosts/RPiList-Phishing.txt
+# Malicious List
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+# Malicious List
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+# Malicious List
 https://urlhaus.abuse.ch/downloads/hostfile/
