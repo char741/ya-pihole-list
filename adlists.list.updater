@@ -6,6 +6,16 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Admiral.txt
 # Advertising List
 https://v.firebog.net/hosts/Easylist.txt
+# Advertising List
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+# Advertising List
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+# Advertising List
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+# Advertising List
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+# Advertising List
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 # Suspicious List
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # Suspicious List
