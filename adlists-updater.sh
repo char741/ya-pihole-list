@@ -9,7 +9,7 @@ if [ "$EUID" -ne 0 ]
   then echo "Warning: Please run as root"
   exit 1
 fi
-
+HOME="/home/pi"
 basename="pihole"
 PIHOLE_COMMAND="/usr/local/bin/${basename}"
 piholeDir="/etc/${basename}"
